@@ -30,7 +30,7 @@ You can use Alexa’s standard voice commands to control the player during playb
 * `Shuffle on/off`
 	* `"turn Shuffle on/off"`
 
-## Support and feedback:
+## Support and feedback
 Send an email to [alexa@nicolaiweitkemper.de](mailto:alexa@nicolaiweitkemper.de) or [open an issue on GitHub](https://github.com/NicoWeio/Alexa-Spotify-Remote/issues/new).
 
 > **Disclaimer**: This skill is not created by, affiliated with, or supported by Spotify.
